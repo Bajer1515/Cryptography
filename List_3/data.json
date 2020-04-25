@@ -1,0 +1,6 @@
+{
+  "store_password": "password",
+  "store_key": "password",
+  "store_name": "keystore.jceks",
+  "store_alias": "encryption_key"
+}
